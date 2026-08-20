@@ -35,4 +35,12 @@ Qualcomm Snapdragon (365 models) and MediaTek Dimensity (349 models) control ove
 * Value Benchmarking:
 While specification scores plateau near 90–100 points in high-end flagship devices (e.g., Sony Xperia 1 VII, Apple iPhone series), budget models like Realme C25/C2S achieve exceptional value efficiency scores (180.1 index) due to balanced hardware specs at minimal entry costs.
 ---
+# Dataset used
+- <a href="https://github.com/Ajayyadav1586/Smartphone_Market_Intelligence_Dashboard_in_Tableau-/blob/main/filtered_smartphones_data.csv">Dataset</a>
+---
 # 🖼️ Dashboard Interaction
+
+<img width="1434" height="786" alt="Screenshot 2026-07-25 at 12 29 54 PM" src="
+ " />
+
+
