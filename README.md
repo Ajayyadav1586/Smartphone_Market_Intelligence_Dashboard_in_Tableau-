@@ -1,5 +1,5 @@
 # 📱 Smartphone_Market_Intelligence_Dashboard_in_Tableau
---
+
 A comprehensive data analysis and interactive visualization project focused on smartphone market trends, pricing segment breakdowns, hardware performance metrics, and manufacturer positioning built using Tableau and Python.
 ---
 ## 📌 Project Objective
