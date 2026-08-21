@@ -40,7 +40,6 @@ While specification scores plateau near 90–100 points in high-end flagship dev
 ---
 # 🖼️ Dashboard Interaction
 
-<img width="1434" height="786" alt="Screenshot 2026-07-25 at 12 29 54 PM" src="
- " />
+<img width="1434" height="786" alt="Screenshot 2026-07-25 at 12 29 54 PM" src="https://github.com/Ajayyadav1586/Smartphone_Market_Intelligence_Dashboard_in_Tableau-/blob/main/IMG_3430.png" />
 
 
